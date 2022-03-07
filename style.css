@@ -89,7 +89,7 @@ h1 {
   left: 865px;
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
   body {
     margin: 0px;
     padding: 0px;
@@ -139,3 +139,4 @@ h1 {
 }
  
 }
+
