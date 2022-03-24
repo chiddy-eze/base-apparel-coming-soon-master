@@ -89,23 +89,26 @@ h1 {
   left: 865px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 550px) {
   body {
     margin: 0px;
     padding: 0px;
     background-image: none;
     font-family: "Josefin Sans", sans-serif;
-    max-width: 450px;
+    max-width: 500px;
   }
   .container {
-    display: flex;
-    width: 465px;
+    /* display: flex; */
+    width: 500px;
   }
   .bgTop{
     display: block;
     margin-bottom: 60px;
     padding: 0px;
-    width: 465px;
+    width: 500px;
+  }
+  .left{
+    width: 500px;
   }
   .bgrnd{
     width: 465px;
