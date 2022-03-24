@@ -95,17 +95,17 @@ h1 {
     padding: 0px;
     background-image: none;
     font-family: "Josefin Sans", sans-serif;
-    max-width: 600px;
+    max-width: 450px;
   }
   .container {
     display: flex;
-    width: 600px;
+    width: 465px;
   }
   .bgTop{
     display: block;
     margin-bottom: 60px;
     padding: 0px;
-    width: 500px;
+    width: 465px;
   }
   .bgrnd{
     width: 100%;
@@ -114,10 +114,11 @@ h1 {
   .left {
     margin: 0px;
     padding: 0px;
+    width: 465px;
   }
   .centre {
-  width: 400px;
-  margin: 0px 0px 40px 40px;
+  /* width: 400px; */
+  /* margin: 0px 0px 40px 40px; */
   text-align: center;
 }
 .info {
